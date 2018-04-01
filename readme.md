@@ -1,1 +1,1 @@
-Bookmarker app using localStorage, with pure JS
+Simple bookmarker app using localStorage, with Javascript
